@@ -25,7 +25,6 @@ __pycache__/
 
 
 # Runtime files #
-*.env
 *.log
 
 
@@ -96,7 +95,6 @@ celerybeat-schedule.*
 
 # Environments
 *.key
-.env
 .venv
 env/
 venv/

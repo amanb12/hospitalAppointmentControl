@@ -8,17 +8,18 @@
 
 <div>
   <p>
-    This project is further development of
+    This django temolate is created by
     <a href="https://github.com/sumitkumar1503/hospitalmanagement">sumitkumar1503/hospitalmanagement.</a>
   </p>
 </div>
 
-This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the
+I used this project to demonstrate my Microsoft Azure skills during the
 <a href="https://futurereadytalent.in/">Future Ready Talent Program</a>.
-And so, this project is not intended for commercial deployment.
+The djano app is deployed on **Azure App Service** and the database is configured with **Azure Database for PostgreSQL**.
 
-This is a simple doctor appointment management system. It is a web application that allows you to manage medical appointments of a single or group of doctor by a centralized administration.
-A patient can book an appointment with a doctor at their convinience and if the admins approves this, the doctor can view the list of appointments of their patient.
+The project is a simple doctor appointment management system and allows you to manage medical appointments of a single or group of doctors by a centralized administration.
+A patient can book an appointment with a doctor at their convinience and if it gets approved by the admins, the doctor can view the list of appointments of their patients.
+As a sample, this project is not intended for commercial deployment.
 
 <br />
 
