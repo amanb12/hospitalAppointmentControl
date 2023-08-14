@@ -1,5 +1,3 @@
-[![Build Status](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml/badge.svg?branch=master)](https://github.com/amanb12/hospitalAppointmentControl/actions/workflows/master_hospital-appointment-control-system.yml)
-<br />
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?labelColor=303030" /></a>
 <a><img alt="GitHub Forks" src="https://img.shields.io/github/forks/sumitkumar1503/hospitalmanagement?color=orange" /><a>
 <br />
@@ -8,17 +6,17 @@
 
 <div>
   <p>
-    This django temolate is created by
+    This django template is created by
     <a href="https://github.com/sumitkumar1503/hospitalmanagement">sumitkumar1503/hospitalmanagement.</a>
   </p>
 </div>
 
-I used this project to demonstrate my Microsoft Azure skills during the
+This repository is created to demonstrate my skills with Microsoft Azure during the
 <a href="https://futurereadytalent.in/">Future Ready Talent Program</a>.
-The djano app is deployed on **Azure App Service** and the database is configured with **Azure Database for PostgreSQL**.
+The djano app is deployed on **Azure Container Instances** and the database is configured with **Azure Database for PostgreSQL**.
 
-The project is a simple doctor appointment management system and allows you to manage medical appointments of a single or group of doctors by a centralized administration.
-A patient can book an appointment with a doctor at their convinience and if it gets approved by the admins, the doctor can view the list of appointments of their patients.
+The application is a simple doctor appointment management system and allows you to manage medical appointments of a single or group of doctors by a centralized administration.
+A patient can book an appointment with a doctor at their convenience and if it gets approved by the admins, the doctor can view the list of appointments of their patients.
 As a sample, this project is not intended for commercial deployment.
 
 <br />
