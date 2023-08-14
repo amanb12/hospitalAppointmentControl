@@ -26,8 +26,8 @@ As a sample, this project is not intended for commercial deployment.
 ### Admin
 
 <div>
-  <a href="https://raw.githubusercontent.com/h1zardian/hospitalAppointmentControl/main/static/screenshots/admin_dashboard.png">
-    <img align="right" width="240px"  src="https://raw.githubusercontent.com/h1zardian/hospitalAppointmentControl/main/static/screenshots/admin_dashboard.png">
+  <a href="https://raw.githubusercontent.com/h1zardian/hospitalAppointmentControl/main/app/static/screenshots/admin_dashboard.png">
+    <img align="right" width="240px"  src="https://raw.githubusercontent.com/h1zardian/hospitalAppointmentControl/main/app/static/screenshots/admin_dashboard.png">
   </a>
 </div>
 
